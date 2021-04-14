@@ -24,4 +24,11 @@ USB внешние заведены, 3.0 работают на полной ск
 
 EFI Catalina и Big Sur добавлю позже Clover и OpenCore.
 
-# Огромная благодарность https://github.com/Ubikfr
+Огромная благодарность:
+
+https://github.com/Ubikfr
+
+Сайту Overclocker и @Mierival 
+
+Прошивка биос:
+https://drive.google.com/open?id=1r2-3JxFvDSyjUN4ojybZdre0qOoWpVct
