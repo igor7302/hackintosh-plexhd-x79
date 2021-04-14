@@ -1,5 +1,6 @@
-# hackintosh-plexhd-x79
-Hackintosh на PlexHD X79 Turbo V1.03Hackintosh работает под управлением macOS Mojave (10.14.6 )
+# Hackintosh на PlexHD X79 Turbo V1.03
+
+Hakitosh MacOS Mojave (10.14.6 )
 
 Xeon E5-2640
 
