@@ -22,7 +22,7 @@ AGPMInjector.kext сгенерирован для Sapphire RX570.
 
 USB внешние заведены, 3.0 работают на полной скорости и по питанию.
 
-EFI Catalina и Big Sur добавлю позже Clover и OpenCore.
+EFI для Catalina, BigSur добавлю позже: Clover и OpenCore.
 
 Огромная благодарность:
 
