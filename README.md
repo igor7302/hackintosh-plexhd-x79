@@ -2,6 +2,8 @@
 
 Hakitosh MacOS Mojave (10.14.6 )
 
+SMBIOS iMacPro1,1
+
 Xeon E5-2640
 
 Sapphire RX570
@@ -19,3 +21,5 @@ X86PlatformPlagin включен питание процессора и спид
 AGPMInjector.kext сгенерирован для Sapphire RX570.
 
 USB внешние заведены, 3.0 работают на полной скорости и по питанию.
+
+EFI Catalina и Big Sur добавлю позже Clover и OpenCore.
