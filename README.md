@@ -9,16 +9,14 @@ This project created for working macOS  Clover Configuration. Worked with this b
 * SSDT создан для e5-2640!!!
 * DSDT только для процессора E5-2640!!!
 
-X86PlatformPlagin включен питание процессора и спидстеп работает правильно.
+X86PlatformPlagin the CPU power is turned on and the speedstep is working correctly.
 
-AGPMInjector.kext сгенерирован для Sapphire RX570.
+AGPMInjector.kext generated for Sapphire RX570.
 
-USB внешние заведены, 3.0 работают на полной скорости и по питанию.
+USB the external ones are wound up, the 3.0 ones are running at full speed and on power.
 
-EFI для Catalina, BigSur добавлю позже: Clover и OpenCore.
+EFI for Catalina, BigSur I'll add it later: Clover и OpenCore.
 
-Огромная благодарность:
+Huge thanks: [@Ubikfr] (https://github.com/Ubikfr)
 
-https://github.com/Ubikfr
-
-Сайту Overclocker и @Mierival 
+Website Overclocker and @Mierival 
