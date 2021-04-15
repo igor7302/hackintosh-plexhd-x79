@@ -5,7 +5,7 @@ This project created for working macOS  Clover Configuration. Worked with this b
 ## Guide
 
 
-* Download BIOS MOD@MierivaL [here](https://drive.google.com/file/d/1r2-3JxFvDSyjUN4ojybZdre0qOoWpVct/view) and video guide on bios firmware - guide [here](https://www.youtube.com/watch?v=B0JyWfsyLKU&t=552s)
+* Download BIOS MOD@MierivaL [here](https://drive.google.com/file/d/1r2-3JxFvDSyjUN4ojybZdre0qOoWpVct/view) and video guide on bios firmware [here](https://www.youtube.com/watch?v=B0JyWfsyLKU&t=552s)
 * SSDT создан для e5-2640!!!
 * DSDT только для процессора E5-2640!!!
 
