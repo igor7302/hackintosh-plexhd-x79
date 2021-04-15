@@ -4,6 +4,7 @@ This project created for working macOS Mojave (10.14.6)  Clover Configuration. W
 
 ## Guide
 
+SMBIOS is from the lamp, put your own.
 
 * Download BIOS MOD@MierivaL [here](https://drive.google.com/file/d/1r2-3JxFvDSyjUN4ojybZdre0qOoWpVct/view) and video guide on bios firmware [here](https://www.youtube.com/watch?v=B0JyWfsyLKU&t=552s)
 * SSDT создан для e5-2640!!!
