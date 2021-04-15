@@ -21,3 +21,5 @@ EFI for Catalina, BigSur I'll add it later: Clover и OpenCore.
 Huge thanks: [@Ubikfr](https://github.com/Ubikfr)
 
 Website Overclocker and @Mierival 
+
+# Added EFI OpenCore 0.6.8, works with all systems from Mojave to BigSur
