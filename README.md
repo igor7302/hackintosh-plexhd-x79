@@ -7,7 +7,8 @@ This project created for working macOS Mojave (10.14.6)  Clover Configuration. W
 
 * Download BIOS MOD@MierivaL [here](https://drive.google.com/file/d/1r2-3JxFvDSyjUN4ojybZdre0qOoWpVct/view) and video guide on bios firmware [here](https://www.youtube.com/watch?v=B0JyWfsyLKU&t=552s)
 * SSDT создан для e5-2640!!!
-* DSDT только для процессора E5-2640!!!
+* DSDT inside the EFI directory processor only E5-2640!!!
+* separate DSDT.aml file for any processor
 
 X86PlatformPlagin the CPU power is turned on and the speedstep is working correctly.
 
