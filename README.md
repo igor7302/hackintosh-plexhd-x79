@@ -17,6 +17,6 @@ USB the external ones are wound up, the 3.0 ones are running at full speed and o
 
 EFI for Catalina, BigSur I'll add it later: Clover и OpenCore.
 
-Huge thanks: [@Ubikfr] (https://github.com/Ubikfr)
+Huge thanks: [@Ubikfr](https://github.com/Ubikfr)
 
 Website Overclocker and @Mierival 
