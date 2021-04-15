@@ -1,17 +1,11 @@
-# Hackintosh на PlexHD X79 Turbo V1.03
+# PlexHD X79 Turbo V1.03
 
-Hakitosh MacOS Mojave (10.14.6 )
+This project created for working macOS  Clover Configuration. Worked with this board and Xeone5-2640 CPUs with Sapphire RX570 graphics. Builds will be updated at future.
 
-SMBIOS iMacPro1,1
+## Guide
 
-Xeon E5-2640
 
-Sapphire RX570
-
-X79 (PlexHD X79 Turbo V1.03)
-
-Clover
-
+* Download BIOS MOD@MierivaL [here](https://drive.google.com/file/d/1r2-3JxFvDSyjUN4ojybZdre0qOoWpVct/view) and video guide on bios firmware - guide [here](https://www.youtube.com/watch?v=B0JyWfsyLKU&t=552s)
 SSDT создан для e5-2640!!!
 
 DSDT только для процессора E5-2640!!!
@@ -29,6 +23,3 @@ EFI для Catalina, BigSur добавлю позже: Clover и OpenCore.
 https://github.com/Ubikfr
 
 Сайту Overclocker и @Mierival 
-
-Прошивка биос:
-https://drive.google.com/open?id=1r2-3JxFvDSyjUN4ojybZdre0qOoWpVct
