@@ -23,3 +23,5 @@ Huge thanks: [@Ubikfr](https://github.com/Ubikfr)
 Website Overclocker and @Mierival 
 
 # Added EFI OpenCore 0.6.8, works with all systems from Mojave to BigSur
+* DSDT inside the EFI directory processor only E5-2640!!!
+* separate DSDT.aml file for any processor
