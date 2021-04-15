@@ -1,6 +1,6 @@
 # PlexHD X79 Turbo V1.03
 
-This project created for working macOS  Clover Configuration. Worked with this board and Xeon 5-2640 V.1 CPU with Sapphire RX570 graphics. Builds will be updated at future.
+This project created for working macOS Mojave (10.14.6)  Clover Configuration. Worked with this board and Xeon 5-2640 V.1 CPU with Sapphire RX570 graphics. Builds will be updated at future.
 
 ## Guide
 
