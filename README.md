@@ -9,6 +9,7 @@ SMBIOS is from the lamp, put your own.
 * It will also work on the stock Bios, but I rewired to unlock the MSR 0xE2 registers.
 * Download BIOS MOD@MierivaL [here](https://drive.google.com/file/d/1r2-3JxFvDSyjUN4ojybZdre0qOoWpVct/view) and video guide on bios firmware [here](https://www.youtube.com/watch?v=B0JyWfsyLKU&t=552s)
 * SSDT generated for e5-2640!!!
+* for some other CPUs in the archive SSDT-1.zip
 * DSDT inside the EFI directory processor only E5-2640!!!
 * separate DSDT.aml file for any processor
 
