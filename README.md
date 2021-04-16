@@ -19,7 +19,7 @@ AGPMInjector.kext generated for Sapphire RX570.
 
 USB the external ones are wound up, the 3.0 ones are running at full speed and on power.
 
-EFI for Mojave, Catalina, BigSur I add : OpenCore.
+EFI for Mojave, Catalina, BigSur I added : OpenCore.
 
 Huge thanks: [@Ubikfr](https://github.com/Ubikfr)
 
